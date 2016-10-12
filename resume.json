@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Andriy Matkivskiy",
+    "label": "Android Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/3864884?v=3&s=466",
+    "email": "andriy.matkivskiy@gmail.com",
+    "phone": "+380633041370",
+    "website": "https://github.com/amatkivskiy",
+    "summary": "Passionate and enthusiastic software engineer. Quick learner in new technologies and skills. I am fond of delivering high-quality technical and architectural solutions. I am happy to make customer satisfied with provided solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Dnipro",
+      "countryCode": "",
+      "region": "Dnipropetrovsk"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "",
+        "url": "https://github.com/amatkivskiy"
+      },
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://ua.linkedin.com/in/andriy-matkivskiy-44154673"
+      },
+      {
+        "network": "Medium",
+        "username": "",
+        "url": "https://medium.com/@amatkivskiy"
+      },
+      {
+        "network": "Nuget",
+        "username": "",
+        "url": "https://www.nuget.org/profiles/amatkivskiy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Valtech",
+      "position": "Android Developer",
+      "website": "https://www.valtech.com/",
+      "startDate": "2015-10-01",
+      "endDate": "2016-11-01",
+      "summary": "Design and develop Android media applications",
+      "highlights": [
+        "Design application architecture",
+        "Design release and beta application deployment process",
+        "Refactor application to meet desired quality",
+        "Provide estimates for the upcoming projects",
+        "Help customer to find most mobile friendly solutions",
+        "Help customer to monitor live application analytics",
+        "Share software development experience between other teammates "
+      ]
+    },
+    {
+      "company": "Sitecore",
+      "position": "Xamarin Developer/Android Developer",
+      "website": "http://www.sitecore.net/en",
+      "startDate": "2013-09-01",
+      "endDate": "2015-09-01",
+      "summary": "Design and develop Sitecore Mobile SDK (for Android and Xamarin)",
+      "highlights": [
+        "Develop Sitecore Android SDK",
+        "Develop Sitecore Xamarin SDK",
+        "Design testing strategies for the SDKs",
+        "Develop Android applications",
+        "Develop Xamarin Android applications"
+      ]
+    },
+    {
+      "company": "Win Interactive LLC",
+      "position": "Junior Android Developer",
+      "website": "http://www.gvc-plc.com/",
+      "startDate": "2012-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Develop Android applications",
+      "highlights": [
+        "Develop Android applications",
+        "Fix issues in the app"
+      ]
+    },
+    {
+      "company": "Kolorit-Agro",
+      "position": "System Administrator",
+      "website": "",
+      "startDate": "2011-01-01",
+      "endDate": "2012-05-01",
+      "summary": "Maintain IT infrastructure in the company",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "VINNYTSIA NATIONAL TECHNICAL UNIVERSITY",
+      "area": "Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-01",
+      "endDate": "2013-05-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Clear way for exciting Up Navigation",
+      "publisher": "Medium",
+      "releaseDate": "2016-09-23",
+      "website": "https://medium.com/@amatkivskiy/clear-way-for-exciting-up-navigation-a66153296ae0#.ijciugwwa",
+      "summary": "The way to build delightfull up navigation in Android application"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Android",
+        "Xamarin",
+        "UX/UI",
+        "Testing",
+        "Analytics",
+        "Deployment",
+        "Coaching"
+      ]
+    },
+    {
+      "name": "Script development",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "Gradle"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tube amplifiers",
+      "keywords": [
+        "Good old warm tubes"
+      ]
+    },
+    {
+      "name": "Aquascaping",
+      "keywords": [
+        "Aquarium",
+        "Aquascape",
+        "Iwagumi",
+        "Nature aquarium"
+      ]
+    },
+    {
+      "name": "History",
+      "keywords": [
+        "WWII",
+        "Napoleonic wars"
+      ]
+    }
+  ],
+  "references": []
+}
