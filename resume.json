@@ -126,7 +126,15 @@
         "Testing",
         "Analytics",
         "Deployment",
-        "Coaching"
+        "Coaching",
+        "Kotlin",
+        "RxJava",
+        "Functional programming",
+        "MVP",
+        "TDD",
+        "Jenkins",
+        "TravisCI",
+        "CircleCI"
       ]
     },
     {
@@ -134,7 +142,8 @@
       "level": "Advanced",
       "keywords": [
         "Python",
-        "Gradle"
+        "Gradle",
+        "Bash"
       ]
     }
   ],
