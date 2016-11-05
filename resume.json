@@ -134,7 +134,8 @@
         "TDD",
         "Jenkins",
         "TravisCI",
-        "CircleCI"
+        "CircleCI",
+        "C++"
       ]
     },
     {
