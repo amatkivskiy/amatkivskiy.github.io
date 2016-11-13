@@ -4,7 +4,7 @@
     "label": "Android Developer",
     "picture": "https://avatars3.githubusercontent.com/u/3864884?v=3&s=466",
     "email": "andriy.matkivskiy@gmail.com",
-    "phone": "+380633041370",
+    "phone": "",
     "website": "https://github.com/amatkivskiy",
     "summary": "Passionate and enthusiastic software engineer. Quick learner in new technologies and skills. I am fond of delivering high-quality technical and architectural solutions. I am happy to make customer satisfied with provided solutions.",
     "location": {
@@ -112,6 +112,13 @@
       "releaseDate": "2016-09-23",
       "website": "https://medium.com/@amatkivskiy/clear-way-for-exciting-up-navigation-a66153296ae0#.ijciugwwa",
       "summary": "The way to build delightfull up navigation in Android application"
+    },
+    {
+      "name": "Java 8 Streams: What to choose",
+      "publisher": "Medium",
+      "releaseDate": "2016-11-12",
+      "website": "https://medium.com/@amatkivskiy/java-8-streams-what-to-choose-f934018709a1#.df0bzq24f",
+      "summary": "No more excuses to bypass data streams"
     }
   ],
   "skills": [
@@ -134,8 +141,7 @@
         "TDD",
         "Jenkins",
         "TravisCI",
-        "CircleCI",
-        "C++"
+        "CircleCI"
       ]
     },
     {
