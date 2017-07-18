@@ -43,9 +43,11 @@
       "position": "Android Developer",
       "website": "https://www.valtech.com/",
       "startDate": "2015-10-01",
-      "endDate": "2016-11-01",
+      "endDate": "2017-09-01",
       "summary": "Design and develop Android media applications",
       "highlights": [
+        "Creating an inspiring team environment with an open communication culture",
+        "Create efficient development process inside team",
         "Design application architecture",
         "Design release and beta application deployment process",
         "Refactor application to meet desired quality",
@@ -104,7 +106,20 @@
       "courses": []
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Data Structures",
+      "date": "",
+      "awarder": "Coursera",
+      "summary": "https://www.coursera.org/account/accomplishments/verify/UBWRGMU2GV49"
+    },
+    {
+      "title": "Algorithmic Toolbox",
+      "date": "",
+      "awarder": "Coursera",
+      "summary": "https://www.coursera.org/account/accomplishments/verify/LAR9T253Q5BP"
+    }
+  ],
   "publications": [
     {
       "name": "Clear way for exciting Up Navigation",
